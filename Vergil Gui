@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {
+Title = "Your Not Whitelist",
+Text = "Your Not Whitelist. You Don't Have Access to this gui",
+Duration = 15,
+})
